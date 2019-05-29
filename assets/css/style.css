@@ -1,0 +1,29 @@
+*{
+    text-align: center;
+}
+.clearfix::after{
+    clear: both;
+    content: "";
+    display: block;
+}
+
+body{background: white;
+    width: 
+}
+header{ background: #4aaaa5;
+    color: white;
+    font-size: 30px;
+    float: left;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;' 
+}
+.top{
+    background: white;
+      border-color: #cccccc;
+      color: #777777;
+      font-size: 24px;
+      float: right;
+    }
+h1{ color: #4aaaa5;
+    font-size: bold;
+}
+p{}
